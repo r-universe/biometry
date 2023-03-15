@@ -1,10 +1,10 @@
 [
   {
-    "package": "bipartite",
+    "package": "tapnet",
     "oncran": true
   },
   {
-    "package": "tapnet",
+    "package": "bipartite",
     "oncran": true
   }
 ]
